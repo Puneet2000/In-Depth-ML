@@ -1,0 +1,61 @@
+Studio 1.
+
+----------------------------
+Topics: Getting started with R, Counting, Simulation
+
+---------------------------
+Before class:
+1. Post studio1.zip containing studio1.r and colMatches.r
+2. Students should download this zip file and unzip it in their 18.05 R directory.
+
+---------------------------
+For class:
+1. Use studio1-slides.pdf
+2. Follow class script below.
+
+---------------------------
+After class:
+1. Post studio1-birthdays.r
+2. Post studio1-slides-all.pdf (slides with solutions)
+(For this studio there are no problems requiring solutions, so the posted slides are identical to the in class slides.)
+
+---------------------------
+Class script
+
+1. Ask each student to announce their birthday in turn, see if there is a match
+
+2. SLIDE 2: Birthday problem: 
+   'today's project is to simulate this in order to estimate the answer'
+
+3. Quick R/RStudio introduction
+     --Everyone should have R/RStudio installed and the studio.zip file downloaded and unzipped
+
+     --TEACHER demonstration
+       . Use the command line to add 2+2
+       . Generate the vector 1:12
+     --Have class open studio1.r
+       . Encourage class to use the upper left window in R-studio to write and edit commands, so they can be saved.
+       . Run commands by selecting some lines.
+     --TEACHER demonstration
+       . Demonstate lines in studio1.r from top through sample()
+       . Have class play with changing some of the numbers in these lines
+
+4. Dice simulation in studio1.r
+     --TEACHER demonstration from studio1.r
+       . Shows code to source and use colMatches
+       . Teach students to define variables like ntrials at the top of the code so they only have to change it once.
+       . Teach students to comment out code
+       . Show dice matching code
+       . 
+5. SLIDE 2: Class: studio project to solve the birthday problem
+   (Use the sample code as a guide.)
+       --estimate probability of match for various n
+       --find smallest n with probability > .5
+       --vary number of trials and think about variablity
+
+6. SLIDE 3: If we want we can show them the plots on slide 3. 
+         At this point to allow them to make plots we'll essentially have to write a makeBirthdayPlot function. Plotting code is at the end of studio1.r 
+
+6: SLIDE 4: Movies of Johnny Carson trying to understand the birthday problem
+
+----------------

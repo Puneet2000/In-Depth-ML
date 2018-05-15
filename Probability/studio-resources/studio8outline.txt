@@ -1,0 +1,86 @@
+Studio 8
+
+----------------------------
+Topics: T-tests, rejection regions
+        R: coding
+
+---------------------------
+Before class:
+1. Post studio8.zip containing: studio8-sol.r (there is no studio8.r)
+
+2. Students should download this zip file and unzip it in their 18.05 R directory.
+
+---------------------------
+For class:
+1. Use studio8-slides.pdf
+2. Follow class script below.
+
+---------------------------
+After class:
+1. Post studio8-slides-all.pdf 
+
+---------------------------
+Class script
+
+Slide 1: Everyone should have downloaded and unzipped studio6.zip
+
+Slides 2-4: Problem 1: Poll of heights
+    -- divide the room into left and right halves 
+    -- for each half, collect the height of each person
+    -- while the class works problem 1 a staff member should compute the size, mean and variance of each group.
+  DISCUSSION:
+    -- Ask for arguments for and against the mean heights being the same. What if we divided by athletes vs non-athletes?
+    -- Show slides 3,4 --no need to dwell on them, but spend a minute on the answers in 1c. The point is that all the tests make assumptions that must be justified by argument or other testing.
+
+Slide 5: Problem 2: Students code and run the tests in R. 
+    Code is in studio8-sol.r
+      --The code has previous data. While they work someone should input the current data and run the code to see the answers.
+      --The output of the code is prettiest if you source the file without echo. 
+      --They will have studio8-sol.r ahead of time, but discourage peeking.
+      --For groups having trouble you can point them to the code.
+    DISCUSSION: 
+      --It shouldn't be necessary to walk through the code. Remind them that the answers will be posted in studio8-sol.r.
+      --Talk about p = 2*pt(-abs(t),df) 
+      --Source the file and show them the output for problem 2
+ 
+Slide 6 (paused slide with 2 parts): Binomial rejection regions
+     --Either walk through choosing the region -- as close as possible 
+       to 0.05 on each side -- or do it as a class discussion
+     --Show part 2 of the slide with the region highlighted
+        --Point out the the region is a range of values of x.
+     --NOTE: there are different algorithms for choosing. The only strict 
+         requirement is that the prob. of the rej. region is < or = alpha. 
+         (In class 23 we'll choose by always taking the next smallest 
+         available probability.) 
+        THIS IS PROBABLY NOT WORTH talking about at this point.
+
+Slide 7: Off-by-one errors
+     The goal here is to explain the need for fiddly plus or minus 1's in the R code.
+     Have them write the answers down. Then do the examples as call and response
+     Ask about easy to make errors.
+     DISCUSSION:
+       --What we mean by off-by-one errors.
+
+Slide 8: (paused slide with 2 parts): Problem 3. Binomial rej. regions using R
+     -- Have them work.
+     -- Push them to use R to check the probabilities using dbinom and/or pbinom
+     -- SHOW part 2 of slide 8 with the rejection region.
+     -- Show the output of the studio8-sol.r
+          ** Explain what wide.left and wide.right are.
+     -- Remind class that answers are in studio8-sol.r
+     -- If it seems useful show them some of the code.
+
+Slide 9: Problem 4: Left-handedness
+     Might not have time for this
+     -- Have all lefties raise hands. Count them.
+        We already know the number of people in the room from the 
+        class heights problem
+     -- Have them use the data to do a one-sample test.
+       DISCUSSION:  --we'll probably run out of time for this
+        Show output of studio8-sol.r
+        4(a) Can do an exact binomial test --rej. region like in problem 3
+             Point out can do a z-test assuming normality
+             Show output and MAYBE source code
+        4(b) Assume sample is representative of MIT. --point out figure.
+        4(c) Similar to (a)
+

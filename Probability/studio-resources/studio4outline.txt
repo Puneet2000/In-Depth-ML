@@ -1,0 +1,40 @@
+Studio 4.
+
+----------------------------
+Topics: Covariance, Correlation, CLT
+        R: simulation
+
+---------------------------
+Before class:
+1. Post studio4.zip containing studio4.r and studio4-sol.r
+2. Students should download this zip file and unzip it in their 18.05 R directory.
+
+---------------------------
+For class:
+1. Use studio4-slides.pdf
+2. Follow class script below.
+
+---------------------------
+After class:
+1. Post studio4-solutions.pdf (This is a regular tex'd pdf with the solutions. Many of the solutions reference studio4-sol.r)
+
+---------------------------
+Class script
+
+Slide 1. 
+   Everyone should have downloaded and unzipped studio4.zip
+
+Slide 2. Board question: covariance and correlation
+  DISCUSSION: After the students finish, this should probably be gone through carefully.
+
+Slides 3,4. Problem 2: Simulation in R
+   Point students at studio4.r for help. They've seen these functions before, so don't spend class time looking at them.  
+   DISCUSSION: Go over the conceptual pieces. Point them at the code in studio4-sol.r for the R work.
+   Show slide 4 --plots for problem 2
+
+Slides 5,6. Problem 3: More simulation
+   Remind students that Jill and Jack overlap on the first 10 bets each day.
+   DISCUSSION (probably won't have time --can point them to the solutions)
+   --If time-- 
+    Talk about the code just adding in Jill's extra bets to handle the overlap.
+    Show slide 6 --plot for problem 3

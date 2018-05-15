@@ -1,0 +1,37 @@
+Studio 2.
+
+----------------------------
+Topics: R simulation to estimate probabilities
+        Learn about 'for loops'
+
+---------------------------
+Before class:
+1. Post studio2.zip containing studio2.r and studio2-solutions.r
+2. Students should download this zip file and unzip it in their 18.05 R directory.
+
+---------------------------
+For class:
+1. Use studio2-slides.pdf
+2. Follow class script below.
+
+---------------------------
+After class:
+1. Post studio2-slides-all.pdf (slides with solutions)
+
+---------------------------
+Class script
+
+1. SLIDES 2,3: Quick review of expected value and linearity
+
+2. SLIDE 4: Board question (main idea: linearity)
+     Discussion and summary
+
+3. SLIDE 5: Simple R simulation exercises
+     Have students open studio2.r
+     Spend 5 minutes (no more) going through studio.r until the end of the first 'for loop' example (about line 40).
+     Have students do the first two exercises on this slide.
+
+4. SLIDE 6: More complicated R simulation including plotting.
+    Point them at the table() and plot() example in studio2.r.
+    Have them do the exercise on this slide.
+
