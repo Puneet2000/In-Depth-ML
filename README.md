@@ -7,4 +7,5 @@
 - https://backreference.org/2010/03/26/tuntap-interface-tutorial/
 - https://medium.freecodecamp.org/building-a-3-layer-neural-network-from-scratch-99239c4af5d3
 - https://pythonprogramming.net/support-vector-machine-intro-machine-learning-tutorial/
+- http://goelhardik.github.io/2016/10/04/fishers-lda/
   
