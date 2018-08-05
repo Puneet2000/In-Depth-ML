@@ -21,7 +21,7 @@
 **Cross validation**
 - [CV vs Bootstraping](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/CV_vs_bootstrap.pdf)
 - [Over-fitting in Model Selection and Subsequent Selection Bias in Performance Evaluation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/cawley10a.pdf)
-- [Andrew Ng's Percentile cv method of cross-validation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/ cvfinal.pdf)
+- [Andrew Ng's Percentile cv method of cross-validation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/cvfinal.pdf)
 
 **Support Vector Machines**
 - [SVM's concept](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/SVM.pdf)
