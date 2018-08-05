@@ -3,43 +3,43 @@
 **This repository contains major Machine learning topics with detailed analysis through major Papers , blogs , links**
 
 **Linear Regression**
--[Linear Regression In depth]
--[Multicollinearity Analysis 1]
--[Multicollinearity Analysis 2]
--[Residual Analysis]
--[Cofficient of determination]
--[Outliner Analysis]
+- [Linear Regression In depth](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/regresion.pdf)
+- [Multicollinearity Analysis 1](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/multicollinearity.pdf)
+- [Multicollinearity Analysis 2](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/multicollinearity2.pdf)
+- [Residual Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/residual analysis.pdf)
+- [Cofficient of determination](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/determinationcoff.pdf)
+- [Outliner Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/residual analysis.pdf)
 
 **Logistic Regression**
 
 **Trees**
--[Decison Tress intermidiate]
--[Understanding Random Forests]
--[Decison tree from Scratch 1](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
--[Decison tree from Scratch 2](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/#fourteen)
+- [Decison Tress intermidiate](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/Decision Trees.pdf)
+- [Understanding Random Forests](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/Trees.pdf)
+- [Decison tree from Scratch 1](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
+- [Decison tree from Scratch 2](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/#fourteen)
 
 **Cross validation**
--[CV vs Bootstraping]
--[Over-fitting in Model Selection and Subsequent Selection Bias in Performance Evaluation]
--[Andrew Ng's Percentile cv method of cross-validation]
+- [CV vs Bootstraping](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/CV vs bootstrap.pdf)
+- [Over-fitting in Model Selection and Subsequent Selection Bias in Performance Evaluation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/cawley10a.pdf)
+- [Andrew Ng's Percentile cv method of cross-validation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/ 	cv-final.pdf)
 
 **Support Vector Machines**
--[SVM's concept]
--[SMO algorithm]
--[Svm form scartch 1]
+- [SVM's concept](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/SVM.pdf)
+- [SMO algorithm](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/SMO-platts.pdf)
+- [Svm form scartch 1]
 
 **Perceptron Update**
--[Perceptron 1]
--[perceptron 2]
+- [Perceptron 1](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/perceptron_notes.pdf)
+- [perceptron 2](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/percepton.pdf)
 
 **Linear Discriminant Analysis**
--[LDA introduction]
--[Detailed LDA]
+- [LDA introduction](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/LDA.pdf)
+- [Detailed LDA](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/detailedLDA.pdf)
 
 **Extras**
--[Machine learning cheat sheet]
--[Regularisation]
--[error Analysis]
--[MIT probability course]
--[MIT Machine learning course]
+- [Machine learning cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/machine-learning-cheat-sheet.pdf)
+- [Regularisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/Decision Trees.pdf)
+- [error Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/regularisation.pdf)
+- [MIT probability course](https://github.com/Puneet2000/In-Depth-ML/tree/master/MIT%20Probability)
+- [MIT Machine learning course](https://github.com/Puneet2000/In-Depth-ML/tree/master/MIT%20ML)
   
