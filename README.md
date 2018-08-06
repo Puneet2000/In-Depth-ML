@@ -44,7 +44,7 @@
 
 ### Boosting 
 - [Boosting 1](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/boosting.pdf)
-- [Boosting 2]
+- [Boosting 2](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/boosting2.pdf)
 - [Gradient Boosting Machines](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/GradientBoost.pdf)
 - [XgBoosting](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/xgboost.pdf)
 - [AdaBoost](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/detailedLDA.pdf)
