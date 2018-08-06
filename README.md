@@ -9,6 +9,7 @@
 - [Residual Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/residual_analysis.pdf)
 - [Cofficient of determination](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/determinationcoff.pdf)
 - [Outliner Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/residual_analysis.pdf)
+- [Elastic Net - Regularisation and variable selection](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/elasticnet.pdf)
 
 **Logistic Regression**
 
