@@ -45,6 +45,8 @@
 ### Boosting 
 - [Boosting 1](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/boosting.pdf)
 - [Boosting 2]
+- [Gradient Boost overview](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/1)
+- [Gradient Boost from scratch](https://www.kaggle.com/grroverpr/gradient-boosting-simplified/)
 - [Gradient Boosting Machines](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/GradientBoost.pdf)
 - [XgBoosting](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/xgboost.pdf)
 - [AdaBoost](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/detailedLDA.pdf)
