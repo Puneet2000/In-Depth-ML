@@ -48,12 +48,18 @@
 - [Gradient Boost overview](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/1)
 - [Gradient Boost from scratch](https://www.kaggle.com/grroverpr/gradient-boosting-simplified/)
 - [Gradient Boosting Machines](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/GradientBoost.pdf)
-- [XgBoosting](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/xgboost.pdf)
+- [XgBoost](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/xgboost.pdf)
+- [XGBoost Supplement](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/xgboost_supp.pdf)
 - [AdaBoost](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/detailedLDA.pdf)
 - [Logit Boosting Algorithm](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/LogitBoost.pdf)
 - [MadaBoost Algorithm](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/MadaBoost.pdf)
 - [BrownBoost Algorithm](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/BrownBoost.pdf)
 - [LPBoost Algorithm](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/LPBoost.pdf)
+
+### Data Preprocessing
+- [Missing Values](https://en.wikipedia.org/wiki/Missing_data)
+- [Outliners](https://en.wikipedia.org/wiki/Outlier)
+- [Categorial Encoding](https://en.wikipedia.org/wiki/Categorical_variable)
 
 ### Extras
 - [Machine learning cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/machine-learning-cheat-sheet.pdf)
