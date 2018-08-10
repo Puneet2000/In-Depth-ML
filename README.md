@@ -32,7 +32,7 @@
 ### Support Vector machines
 - [SVM's concept](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/SVM.pdf)
 - [SMO algorithm](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/SMO-platts.pdf)
-- [Svm form scartch 1]
+- [Simplified SMO by stanford](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/smo.pdf)
 
 ### Perceptron Update
 - [Perceptron 1](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/perceptron_notes.pdf)
