@@ -66,6 +66,7 @@
 ### Kaggle Past Competitions with winning Solutions
 - [Kaggle competitions and solutions 1](http://ndres.me/kaggle-past-solutions/)
 - [Kaggle competitions and solutions 2](http://www.chioka.in/kaggle-competition-solutions/)
+
 ### Extras
 - [Machine learning cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/machine-learning-cheat-sheet.pdf)
 - [Regularisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/regularisation.pdf)
