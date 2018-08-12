@@ -1,6 +1,6 @@
 ## In-Depth-ML
 
-**This repository contains major Machine learning topics with detailed analysis through major Papers , blogs , links**
+**This repository contains major Machine learning topics with detailed analysis through major Papers , blogs , links and youtube tutorials**
 
 ### Linear Regression
 - [Covariance matrix](https://www.quora.com/What-is-meant-by-a-covariance-matrix-and-why-do-we-use-it)
@@ -73,4 +73,8 @@
 - [error Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/error-analysis)
 - [MIT probability course](https://github.com/Puneet2000/In-Depth-ML/tree/master/MIT%20Probability)
 - [MIT Machine learning course](https://github.com/Puneet2000/In-Depth-ML/tree/master/MIT%20ML)
+
+### Other Tutorials
+- [Machine Learning for beginners](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+- [Mathematics of machine learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
   
