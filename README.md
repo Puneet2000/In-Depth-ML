@@ -58,6 +58,12 @@
 - [BrownBoost Algorithm](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/BrownBoost.pdf)
 - [LPBoost Algorithm](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/LPBoost.pdf)
 
+### Stack Generalization/Stacking
+- [Stack Generalization by Wolpert](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/stacking.pdf)
+- [When does it work?](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/stackingwork.pdf)
+- [Issues with Stack generalisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/stackingissues.pdf)
+- [Stacking from scratch in python](https://machinelearningmastery.com/implementing-stacking-scratch-python/)
+
 ### Data Preprocessing
 - [Missing Values](https://en.wikipedia.org/wiki/Missing_data)
 - [Outliners](https://en.wikipedia.org/wiki/Outlier)
