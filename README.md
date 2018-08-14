@@ -6,7 +6,7 @@
 - [Covariance matrix](https://www.quora.com/What-is-meant-by-a-covariance-matrix-and-why-do-we-use-it)
 - [Linear Regression In depth](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/regresion.pdf)
 - [Multicollinearity Analysis 1](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/multicollinearity.pdf)
-- [Multicollinearity Analysis 2](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/multicollinearity2.pdf)
+- [Multicollinearity Analysis 2](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/multicollinearty2.pdf)
 - [Residual Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/residual_analysis.pdf)
 - [Cofficient of determination](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/determinationcoff.pdf)
 - [Outliner Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/residual_analysis.pdf)
@@ -23,6 +23,7 @@
 - [Understanding Random Forests](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/Trees.pdf)
 - [Decison tree from Scratch 1](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
 - [Decison tree from Scratch 2](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/#fourteen)
+- [Random Subspace Method](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/Random_Subspace_method.pdf)
 
 ### Cross Validation
 - [CV vs Bootstraping](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/CV_vs_bootstrap.pdf)
@@ -63,6 +64,7 @@
 - [When does it work?](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/stackingwork.pdf)
 - [Issues with Stack generalisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/stackingissues.pdf)
 - [Stacking from scratch in python](https://machinelearningmastery.com/implementing-stacking-scratch-python/)
+- [Non-Negative least square cofficient method for classification](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/tcbbR3.pdf)
 
 ### Data Preprocessing
 - [Missing Values](https://en.wikipedia.org/wiki/Missing_data)
@@ -75,6 +77,7 @@
 
 ### Extras
 - [Machine learning cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/machine-learning-cheat-sheet.pdf)
+- [Probability cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/probability_cheatsheet.pdf)
 - [Regularisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/regularisation.pdf)
 - [error Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/error-analysis)
 - [MIT probability course](https://github.com/Puneet2000/In-Depth-ML/tree/master/MIT%20Probability)
