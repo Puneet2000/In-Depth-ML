@@ -9,7 +9,9 @@
 - [Multicollinearity Analysis 2](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/multicollinearty2.pdf)
 - [Residual Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/residual_analysis.pdf)
 - [Cofficient of determination](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/determinationcoff.pdf)
-- [Outliner Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/residual_analysis.pdf)
+- [Outlier Analysis 1](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/outlier.pdf)
+- [Outlier Analysis 1](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/outlier2.pdf)
+- [Regression Shrinkage and selection via Lasso](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/lasso.pdf)
 - [Elastic Net - Regularisation and variable selection](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/elasticnet.pdf)
 
 ### Logistic Regression
@@ -70,6 +72,9 @@
 - [Missing Values](https://en.wikipedia.org/wiki/Missing_data)
 - [Outliners](https://en.wikipedia.org/wiki/Outlier)
 - [Categorial Encoding](https://en.wikipedia.org/wiki/Categorical_variable)
+
+### Constraint solving
+- [Constraint Solving](http://www.cs.ubc.ca/~schmidtm/MLSS/)
 
 ### Kaggle Past Competitions with winning Solutions
 - [Kaggle competitions and solutions 1](http://ndres.me/kaggle-past-solutions/)
