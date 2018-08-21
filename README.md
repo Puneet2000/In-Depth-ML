@@ -80,6 +80,22 @@
 - [Kaggle competitions and solutions 1](http://ndres.me/kaggle-past-solutions/)
 - [Kaggle competitions and solutions 2](http://www.chioka.in/kaggle-competition-solutions/)
 
+### Neural Networks
+- [Intiutve Explanation of CNN](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+- [How is a convolutional neural network able to learn invariant features?](https://www.quora.com/How-is-a-convolutional-neural-network-able-to-learn-invariant-features)
+- [Max vs average Pooling](https://www.quora.com/What-is-the-benefit-of-using-average-pooling-rather-than-max-pooling)
+- [Dropout]
+- [Xaviers Initialisation]
+- [Batch Normalizaton]
+- [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
+- [Random vs Grid Search](https://stats.stackexchange.com/questions/160479/practical-hyperparameter-optimization-random-vs-grid-search)
+- [Random Search For Hyper Parameter Optimisation]
+- [Gradient Descent Optimisation]
+- [CNN in Pytorch](https://blog.algorithmia.com/convolutional-neural-nets-in-pytorch/)
+- [Resnet]
+- [Principal Compponent Analysis]
+- [Nash Equilibrium]
+
 ### Extras
 - [Machine learning cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/machine-learning-cheat-sheet.pdf)
 - [Probability cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/probability_cheatsheet.pdf)
@@ -89,6 +105,10 @@
 - [MIT Machine learning course](https://github.com/Puneet2000/In-Depth-ML/tree/master/MIT%20ML)
 
 ### Other Tutorials
+- [CS231n Stanford course](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [Machine Learning for beginners](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - [Mathematics of machine learning](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+- [PyTorch tutorials for deep Learning ](https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers)
+- [PyTorch](https://pytorch.org/tutorials/)
+
   
