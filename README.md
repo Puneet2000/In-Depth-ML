@@ -80,21 +80,25 @@
 - [Kaggle competitions and solutions 1](http://ndres.me/kaggle-past-solutions/)
 - [Kaggle competitions and solutions 2](http://www.chioka.in/kaggle-competition-solutions/)
 
-### Neural Networks
+### Convolutional Neural Networks
 - [Intiutve Explanation of CNN](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
 - [How is a convolutional neural network able to learn invariant features?](https://www.quora.com/How-is-a-convolutional-neural-network-able-to-learn-invariant-features)
 - [Max vs average Pooling](https://www.quora.com/What-is-the-benefit-of-using-average-pooling-rather-than-max-pooling)
-- [Dropout]
-- [Xaviers Initialisation]
-- [Batch Normalizaton]
+- [Dropout](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/dropout.pdf)
+- [Xaviers Initialisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/xavierinitialisation.pdf)
+- [Batch Normalizaton](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/Bn.pdf)
 - [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
 - [Random vs Grid Search](https://stats.stackexchange.com/questions/160479/practical-hyperparameter-optimization-random-vs-grid-search)
-- [Random Search For Hyper Parameter Optimisation]
-- [Gradient Descent Optimisation]
+- [Random Search For Hyper Parameter Optimisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/randomsearch.pdf)
+- [Gradient Descent Optimisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/gdecent.pdf)
+- [Adam Optimisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/adam.pdf)
+- [Fractional Pooling](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/FPM.pdf)
+- [ReLU's](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/relu.pdf)
+- [Data Augmentation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/dataaugmentation.pdf)
 - [CNN in Pytorch](https://blog.algorithmia.com/convolutional-neural-nets-in-pytorch/)
-- [Resnet]
-- [Principal Compponent Analysis]
-- [Nash Equilibrium]
+- [Resnet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/resnet1.pdf)
+- [Principal Compponent Analysis]https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/pca_tutorial.pdf
+- [Nash Equilibrium](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/nash.pdf)
 
 ### Extras
 - [Machine learning cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/machine-learning-cheat-sheet.pdf)
