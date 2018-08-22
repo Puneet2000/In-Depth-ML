@@ -97,7 +97,7 @@
 - [Data Augmentation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/dataaugmentation.pdf)
 - [CNN in Pytorch](https://blog.algorithmia.com/convolutional-neural-nets-in-pytorch/)
 - [Resnet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/resnet1.pdf)
-- [Principal Compponent Analysis]https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/pca_tutorial.pdf
+- [Principal Compponent Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/pca_tutorial.pdf)
 - [Nash Equilibrium](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/nash.pdf)
 
 ### Extras
