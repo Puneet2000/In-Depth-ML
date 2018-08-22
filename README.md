@@ -85,6 +85,7 @@
 - [How is a convolutional neural network able to learn invariant features?](https://www.quora.com/How-is-a-convolutional-neural-network-able-to-learn-invariant-features)
 - [Max vs average Pooling](https://www.quora.com/What-is-the-benefit-of-using-average-pooling-rather-than-max-pooling)
 - [Dropout](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/dropout.pdf)
+- [Explaining Xavier Initialisation easily](http://andyljones.tumblr.com/post/110998971763/an-explanation-of-xavier-initialization)
 - [Xaviers Initialisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/xavierinitialisation.pdf)
 - [Batch Normalizaton](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/Bn.pdf)
 - [Understanding the backward pass through Batch Normalization Layer](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
