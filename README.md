@@ -108,10 +108,10 @@
 - [GAN — GAN Series (from the beginning to the end)](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
 - [What is wrong with the GAN cost function?](https://medium.com/@jonathan_hui/gan-what-is-wrong-with-the-gan-cost-function-6f594162ce01)
 - [EXPLAINING AND HARNESSING ADVERSARIAL EXAMPLES](https://arxiv.org/pdf/1412.6572.pdf)
-- [Tutorial 1](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/)
-- [Tutorial 2](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
-- [Tutorial 3](https://www.youtube.com/watch?v=9JpdAg6uMXs)
+- [Introduction to GANs, NIPS 2016 | Ian Goodfellow, OpenAI](https://www.youtube.com/watch?v=9JpdAg6uMXs)
+- [Differentiable Inference and Generative Models](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/)
 - [Pytorch CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
+- [Various GAN's implemented in torch](https://github.com/wiseodd/generative-models)
 - [Nash Equilibrium](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/nash.pdf)
 
 ### Extras
