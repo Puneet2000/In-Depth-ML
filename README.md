@@ -99,6 +99,19 @@
 - [CNN in Pytorch](https://blog.algorithmia.com/convolutional-neural-nets-in-pytorch/)
 - [Resnet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/resnet1.pdf)
 - [Principal Compponent Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/pca_tutorial.pdf)
+
+
+### Recurrent Neural Network
+- [Understanding RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
+
+### Generative Adversial Networks
+- [GAN — GAN Series (from the beginning to the end)](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
+- [What is wrong with the GAN cost function?](https://medium.com/@jonathan_hui/gan-what-is-wrong-with-the-gan-cost-function-6f594162ce01)
+- [EXPLAINING AND HARNESSING ADVERSARIAL EXAMPLES](https://arxiv.org/pdf/1412.6572.pdf)
+- [Tutorial 1](http://www.cs.toronto.edu/~duvenaud/courses/csc2541/)
+- [Tutorial 2](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
+- [Tutorial 3](https://www.youtube.com/watch?v=9JpdAg6uMXs)
+- [Pytorch CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - [Nash Equilibrium](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/nash.pdf)
 
 ### Extras
@@ -108,6 +121,7 @@
 - [error Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/error-analysis)
 - [MIT probability course](https://github.com/Puneet2000/In-Depth-ML/tree/master/MIT%20Probability)
 - [MIT Machine learning course](https://github.com/Puneet2000/In-Depth-ML/tree/master/MIT%20ML)
+- [“Deep learning - Information theory & Maximum likelihood.”](https://jhui.github.io/2017/01/05/Deep-learning-Information-theory/)
 
 ### Other Tutorials
 - [CS231n Stanford course](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
