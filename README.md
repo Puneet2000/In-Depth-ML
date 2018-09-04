@@ -104,6 +104,12 @@
 ### Recurrent Neural Network
 - [Understanding RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
 
+### Transpose Convolution
+- [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
+- [Up-sampling with Transposed Convolution](https://towardsdatascience.com/up-sampling-with-transposed-convolution-9ae4f2df52d0)
+- [Demystifying Transpose Convolution](https://towardsdatascience.com/transpose-convolution-77818e55a123)
+- [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
+
 ### Generative Adversial Networks
 - [GAN — GAN Series (from the beginning to the end)](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
 - [What is wrong with the GAN cost function?](https://medium.com/@jonathan_hui/gan-what-is-wrong-with-the-gan-cost-function-6f594162ce01)
