@@ -138,6 +138,7 @@
 - [“Deep learning - Information theory & Maximum likelihood.”](https://jhui.github.io/2017/01/05/Deep-learning-Information-theory/)
 - [Exemplar CNNs and Information Maximization](https://www.inference.vc/exemplar-cnns-and-information-maximization/)
 - [Dilated Convolutions and Kronecker Factored Convolutions](https://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
+- [Swish Activation Function by Google](https://medium.com/@neuralnets/swish-activation-function-by-google-53e1ea86f820)
 
 ### Other Tutorials
 - [CS231n Stanford course](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
