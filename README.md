@@ -109,6 +109,7 @@
 - [Up-sampling with Transposed Convolution](https://towardsdatascience.com/up-sampling-with-transposed-convolution-9ae4f2df52d0)
 - [Demystifying Transpose Convolution](https://towardsdatascience.com/transpose-convolution-77818e55a123)
 - [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
+- [Convolution arithmetic tutorial](http://deeplearning.net/software/theano/tutorial/conv_arithmetic.html)
 
 ### Generative Adversial Networks
 - [GAN — GAN Series (from the beginning to the end)](https://medium.com/@jonathan_hui/gan-gan-series-2d279f906e7b)
@@ -119,6 +120,13 @@
 - [Pytorch CycleGAN](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 - [Various GAN's implemented in torch](https://github.com/wiseodd/generative-models)
 - [Nash Equilibrium](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/nash.pdf)
+- [InfoGAN](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/infoGAN.pdf)
+- [UnrolledGAN](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/unrolledgan.pdf)
+- [GAN NUmerics](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/GANNuerics.pdf)
+- [cycleGAN](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/cycleGAN.pdf)
+- [GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/1211.5063.pdf)
+- [Improved Techniques for Training GANs](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/improvedgan.pdf)
+- [Are GANs Created Equal? A Large-Scale Study](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/ganequalpdf)
 
 ### Extras
 - [Machine learning cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/machine-learning-cheat-sheet.pdf)
@@ -128,6 +136,8 @@
 - [MIT probability course](https://github.com/Puneet2000/In-Depth-ML/tree/master/MIT%20Probability)
 - [MIT Machine learning course](https://github.com/Puneet2000/In-Depth-ML/tree/master/MIT%20ML)
 - [“Deep learning - Information theory & Maximum likelihood.”](https://jhui.github.io/2017/01/05/Deep-learning-Information-theory/)
+- [Exemplar CNNs and Information Maximization](https://www.inference.vc/exemplar-cnns-and-information-maximization/)
+- [Dilated Convolutions and Kronecker Factored Convolutions](https://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 
 ### Other Tutorials
 - [CS231n Stanford course](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
