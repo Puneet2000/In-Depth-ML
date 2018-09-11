@@ -128,6 +128,14 @@
 - [Improved Techniques for Training GANs](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/improvedgan.pdf)
 - [Are GANs Created Equal? A Large-Scale Study](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/ganequalpdf)
 
+### Restricted Boltzmann Machines
+- [Introduction](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15)
+- [Very Good Explanation of RBM I](https://medium.com/@neuralnets/boltzmann-machines-transformation-of-unsupervised-deep-learning-part-1-42659a74f530)
+- [Very Good Explanation of RBM II](https://medium.com/@neuralnets/boltzmann-machines-transformation-of-unsupervised-deep-learning-part-2-cfb1dab81437)
+- [Orignal Paper]()
+- [Guide to Training RBM's]
+- [Tensorflow Example](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb)
+
 ### Extras
 - [Machine learning cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/machine-learning-cheat-sheet.pdf)
 - [Probability cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/probability_cheatsheet.pdf)
