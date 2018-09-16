@@ -128,6 +128,16 @@
 - [Improved Techniques for Training GANs](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/improvedgan.pdf)
 - [Are GANs Created Equal? A Large-Scale Study](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/ganequalpdf)
 
+### Probabilistic Models in Deep Learning
+- [Probabilistic Graphical Models Tutorial — Part 1](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189)
+- [Probabilistic Graphical Models Tutorial — Part 2](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-d855ba0107d1)
+- [Bayesian Directed Networks](https://github.com/Puneet2000/In-Depth-ML/blob/master/BayesianNets.pdf)
+- [Markov Undirected Networks](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/MarkovNets.pdf)
+- [Gaussian BN](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/GaussianMarkovNets.pdf)
+- [Exponential Families](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/ExponentialFamilies.pdf)
+- [Exact Inference - Vatiable Elimination](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/ExactInference.pdf)
+- [Graph Models in Nutshell](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/Nutshell.pdf)
+
 ### Restricted Boltzmann Machines
 - [Introduction](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15)
 - [Very Good Explanation of RBM I](https://medium.com/@neuralnets/boltzmann-machines-transformation-of-unsupervised-deep-learning-part-1-42659a74f530)
