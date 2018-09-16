@@ -131,7 +131,7 @@
 ### Probabilistic Models in Deep Learning
 - [Probabilistic Graphical Models Tutorial — Part 1](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189)
 - [Probabilistic Graphical Models Tutorial — Part 2](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-d855ba0107d1)
-- [Bayesian Directed Networks](https://github.com/Puneet2000/In-Depth-ML/blob/master/Bayesian.pdf)
+- [Bayesian Directed Networks](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/Bayesian.pdf)
 - [Markov Undirected Networks](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/MarkovNets.pdf)
 - [Gaussian BN](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/GaussianMarkovNets.pdf)
 - [Exponential Families](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/ExponentialFamilies.pdf)
