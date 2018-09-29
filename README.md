@@ -103,6 +103,9 @@
 
 ### Recurrent Neural Network
 - [Understanding RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
+- [Guide to Recurrent Neural Networks: Understanding the Intuition](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
+- [Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+- [Neural Turing machines]()
 
 ### Transpose Convolution
 - [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
@@ -157,6 +160,9 @@
 - [Exemplar CNNs and Information Maximization](https://www.inference.vc/exemplar-cnns-and-information-maximization/)
 - [Dilated Convolutions and Kronecker Factored Convolutions](https://www.inference.vc/dilated-convolutions-and-kronecker-factorisation/)
 - [Swish Activation Function by Google](https://medium.com/@neuralnets/swish-activation-function-by-google-53e1ea86f820)
+- [Capsule Networks](https://medium.com/@pechyonkin/part-iv-capsnet-architecture-6a64422f7dce)
+- [Maximum Likelihood Estimation](https://towardsdatascience.com/parameter-inference-maximum-likelihood-2382ef895408)
+- [Maximum Aposteriori](https://towardsdatascience.com/parameter-inference-maximum-aposteriori-estimate-49f3cd98267a)
 
 ### Other Tutorials
 - [CS231n Stanford course](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
