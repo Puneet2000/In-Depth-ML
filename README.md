@@ -106,6 +106,8 @@
 - [Guide to Recurrent Neural Networks: Understanding the Intuition](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
 - [Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 - [Neural Turing machines]()
+- [The magic of LSTM neural networks](https://medium.com/datathings/the-magic-of-lstm-neural-networks-6775e8b540cd)
+- [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
 
 ### Transpose Convolution
 - [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
@@ -134,7 +136,7 @@
 ### Probabilistic Models in Deep Learning
 - [Probabilistic Graphical Models Tutorial — Part 1](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-and-solutions-e4f1d72af189)
 - [Probabilistic Graphical Models Tutorial — Part 2](https://blog.statsbot.co/probabilistic-graphical-models-tutorial-d855ba0107d1)
-- [Bayesian Directed Networks](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/Bayesian.pdf)
+- [Bayesian Directed Networks](https://github.com/Puneet2000/In-Depth-ML/blob/master/Bayesian.pdf)
 - [Markov Undirected Networks](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/MarkovNets.pdf)
 - [Gaussian BN](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/GaussianMarkovNets.pdf)
 - [Exponential Families](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/ExponentialFamilies.pdf)
