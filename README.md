@@ -101,13 +101,17 @@
 - [Principal Compponent Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/pca_tutorial.pdf)
 
 
-### Recurrent Neural Network
+### Sequence Models
 - [Understanding RNN](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
 - [Guide to Recurrent Neural Networks: Understanding the Intuition](https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9)
 - [Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 - [Neural Turing machines]()
+- [HMM](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/hmm.pdf)
 - [The magic of LSTM neural networks](https://medium.com/datathings/the-magic-of-lstm-neural-networks-6775e8b540cd)
 - [The fall of RNN / LSTM](https://towardsdatascience.com/the-fall-of-rnn-lstm-2d1594c74ce0)
+- [Pixel CNN](http://sergeiturukin.com/2017/02/22/pixelcnn.html)
+- [Blind Spot problem in PixelCNN](https://towardsdatascience.com/blind-spot-problem-in-pixelcnn-8c71592a14a)
+- [Gated Pixel CNN](https://arxiv.org/pdf/1606.05328.pdf)
 
 ### Transpose Convolution
 - [An Introduction to different Types of Convolutions in Deep Learning](https://towardsdatascience.com/types-of-convolutions-in-deep-learning-717013397f4d)
