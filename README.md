@@ -11,6 +11,7 @@
 - [Cofficient of determination](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/determinationcoff.pdf)
 - [Outlier Analysis 1](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/outlier.pdf)
 - [Outlier Analysis 1](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/outlier2.pdf)
+- [Local Outlier factors](https://blog.stealthbits.com/local-outlier-factor-part-2)
 - [Regression Shrinkage and selection via Lasso](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/lasso.pdf)
 - [Elastic Net - Regularisation and variable selection](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/elasticnet.pdf)
 
@@ -155,7 +156,17 @@
 - [Guide to Training RBM's]
 - [Tensorflow Example](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-ii-4b159dce1ffb)
 
-### Extras
+### Adversial Examples and Adversial Training
+- [Adversarial Examples and Adversarial Training](https://www.youtube.com/watch?v=CIfsB_EYsVI)
+- [Explaining and Harnessing Adversarial Examples](https://arxiv.org/pdf/1412.6572.pdf)
+- [Intriguing properties of neural networks](https://arxiv.org/pdf/1312.6199.pdf)
+- [Regularisation of Neural Networks by Enforcing Lipschitz Continuity](https://arxiv.org/pdf/1804.04368.pdf)
+- [Adversarial Diversity and Hard Positive Generation](https://www.cv-foundation.org//openaccess/content_cvpr_2016_workshops/w12/papers/Rozsa_Adversarial_Diversity_and_CVPR_2016_paper.pdf)
+- [DeepFool: a simple and accurate method to fool deep neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf)
+- [Universal adversarial perturbations](https://arxiv.org/pdf/1610.08401.pdf)
+- [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/pdf/1608.04644.pdf)
+
+### Extras and Interesting
 - [Machine learning cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/machine-learning-cheat-sheet.pdf)
 - [Probability cheat sheet](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/probability_cheatsheet.pdf)
 - [Regularisation](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/regularisation.pdf)
@@ -169,6 +180,16 @@
 - [Capsule Networks](https://medium.com/@pechyonkin/part-iv-capsnet-architecture-6a64422f7dce)
 - [Maximum Likelihood Estimation](https://towardsdatascience.com/parameter-inference-maximum-likelihood-2382ef895408)
 - [Maximum Aposteriori](https://towardsdatascience.com/parameter-inference-maximum-aposteriori-estimate-49f3cd98267a)
+- [Understanding and Using Principal Component Analysis (PCA)](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/l7.pdf)
+- [How PCA works](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/l8.pdf)
+- [Probabilistic Principal Component Analysis](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/ppca.pdf)
+- [The Neural Autoregressive Distribution Estimator](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/nade.pdf)
+- [Deep AutoRegressive Networks](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/darn.pdf)
+- [When Bayes, Ockham, and Shannon come together to define machine learning](https://towardsdatascience.com/when-bayes-ockham-and-shannon-come-together-to-define-machine-learning-96422729a1ad)
+- [No-Free-Lunch and the Minimum Description Length](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/NFSandMDL.pdf)
+- [No Free Lunch versus Occam’s Razor in Supervised Learning](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/NFSvsOrzar.pdf)
+- [No-Free-Lunch and the Problem Description Length](https://github.com/Puneet2000/In-Depth-ML/blob/master/M-Learning/NFSandPDL.pdf)
+- [Demystifying KL Divergence](https://towardsdatascience.com/demystifying-kl-divergence-7ebe4317ee68)
 
 ### Other Tutorials
 - [CS231n Stanford course](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
